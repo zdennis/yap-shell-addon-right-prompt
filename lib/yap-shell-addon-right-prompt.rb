@@ -1,4 +1,5 @@
 require 'yap/addon'
+require 'yap-shell-addon-right-prompt/version'
 
 module YapShellAddonRightPrompt
   class Addon < ::Yap::Addon::Base
